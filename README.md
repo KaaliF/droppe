@@ -23,7 +23,8 @@ Use App
 7 If you want to change again you can click cancel and carts will be displayed again. 
 
 
-Here is the heroku link : https://droppe.herokuapp.com/carts
+Here is the heroku link : https://droppe.herokuapp.com/carts.
+Its is a free version so dyno will stop please wait for 2,3 minutes when link is accssed. If it gives error kindly refresh the page. 
 
 
 
