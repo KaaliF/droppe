@@ -1,0 +1,32 @@
+.card {
+    /* Add shadows to create the "card" effect */
+
+    background-color: whitesmoke;
+    box-shadow: 2px 4px 8px 2px rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+    margin: 10px;
+}
+
+.container {
+    padding: 2px 16px;
+}
+
+.totalAmount {
+    padding: 10px;
+    margin-left: 10px;
+}
+
+.approveButton {
+    float: right;
+    margin-right: 10px;
+    margin-top: 4px;
+    background-color: #3336eecc;
+    cursor: pointer;
+    border: none;
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    padding: 8px 10px;
+    border-radius: 5px;
+
+}

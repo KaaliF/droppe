@@ -1,0 +1,44 @@
+.productcard {
+    box-shadow: 0 4px 8px 0 rgba(172, 201, 238, 0.2);
+    /* this adds the "card" effect */
+    padding: 16px;
+    background-color: #dbe9eb;
+    margin: 5px;
+    border-radius: 5px;
+}
+
+.container {
+    padding: 15px;
+}
+
+.body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.imgProduct {
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.discardButton {
+    float: right;
+    background-color: #ec6d6d;
+    cursor: pointer;
+    border: none;
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    padding: 15px 32px;
+}
+
+.disscountTag {
+    background-color: #ec6d6d;
+    border-radius: 3px;
+    padding: 1.5px 1.5px;
+    color: white;
+    margin-left: 5px;
+}
+
+.totalCart {
+    float: right;
+}

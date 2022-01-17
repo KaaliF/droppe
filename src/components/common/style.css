@@ -1,0 +1,56 @@
+.incrementButton {
+    background-color: #3336eecc;
+    cursor: pointer;
+    border: none;
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    border-radius: 5px;
+    margin-right: 5px;
+    margin-left: 5px;
+
+}
+
+incrementButton:disabled,
+decrementButton:disabled,
+button[disabled] {
+    border: 1px solid #999999;
+    background-color: #cccccc;
+    color: #666666;
+}
+
+.decrementButton {
+    background-color: #ec6d6d;
+    cursor: pointer;
+    border: none;
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    border-radius: 5px;
+
+}
+
+#checkout {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+#checkout td,
+#checkout th {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+#checkout tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+
+#checkout th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #dbe9eb;
+
+}
