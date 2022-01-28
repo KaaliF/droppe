@@ -1,3 +1,5 @@
+Note: That was a assesment not a complete project. 
+
 Install
 
 1 Firstly clone the application or I have sended the .RAR file you can unrar that also. 
@@ -5,6 +7,8 @@ Install
 2 After cloning navigate to directory and type npm install and let the node modules install then type npm start (if you want to run app).
 
 3 App will run on http://localhost:3000/carts url. 
+
+Note: If you add indentical products to different carts you will get the disscount (e.g 2 products 20 percent disscount and so on).
 
 Use App
 
@@ -21,6 +25,8 @@ Use App
 6 It will open a new modal and you can easily see all the items with disscount with the whole total and you can approve there it will approve all the carts. 
 
 7 If you want to change again you can click cancel and carts will be displayed again. 
+
+
 
 
 Here is the heroku link : https://droppe.herokuapp.com/carts.
