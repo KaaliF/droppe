@@ -2,7 +2,7 @@ Note: That was a assesment not a complete project.
 
 Install
 
-1 Firstly clone the application or I have sended the .RAR file you can unrar that also. 
+1 Firstly clone the application.
 
 2 After cloning navigate to directory and type npm install and let the node modules install then type npm start (if you want to run app).
 
